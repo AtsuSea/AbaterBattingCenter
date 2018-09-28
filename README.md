@@ -1,0 +1,10 @@
+# AbaterBattingCenter
+
+SteamVRを起動してからこちらのMikokoBattingCenterを起動してください
+６点トラックに対応しています
+コントローラーとヘッドセットの三点トラックで動くかなどはv200で対応予定です
+UnityAssetは.gitignoreで外してあるので各自で入れないとビルドできません（FinalIKなど有料のものもあります）
+
+
+exeファイルダウンロードはこちらからフリーです
+https://achuachu.booth.pm/items/1030140
